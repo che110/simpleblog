@@ -1,0 +1,9 @@
+myenv
+.idea/
+*.pyc
+__pycache__
+staticfiles
+loacl_settings.py
+db.sqlite3
+migrations
+whoosh_index/
